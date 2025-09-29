@@ -2,7 +2,7 @@
 **A passionate Software Engineer || Developer
 
 Email Me 👉 ✉️ **aditya154919@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-- <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/6ece4813-0baf-4053-9f71-e2d0c5d41df3" />    currently in 2nd year 
+- <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/6ece4813-0baf-4053-9f71-e2d0c5d41df3" />    Currently in 2nd year 
 - 🌱 **I’m currently learning:** Full stack development 
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** aditya154919@gmail.com
